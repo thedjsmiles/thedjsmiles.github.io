@@ -1,11 +1,13 @@
 # Donald K. Morgan
 
-<center><i class="fa fa-globe"></i> Seattle, WA <i class="fa fa-envelope"></i> [beccasamuelson@gmail.com](mailto:beccasamuelson@gmail.com)  
-<i class="fa fa-phone"></i> <a href="imessage://beccasamuelson@gmail.com">(704) 654-7371</a> <i class="fa fa-linkedin"></i> [linkedin.com/in/rsamuelson](https://www.linkedin.com/in/rsamuelson)  
-<i class="fa fa-github"></i> [github.com/rsamuelson](https://github.com/rsamuelson)</center>
+<center><i class="fa fa-globe"></i> Seattle, WA <i class="fa fa-envelope"></i> [donnykmorgan@gmail.com](mailto:donnykmorgan@gmail.com)  
+<i class="fa fa-phone"></i> <a href="imessage://donnymorgan5@gmail.com">(703) 853-3859</a> <i class="fa fa-linkedin"></i> [linkedin.com/in/donnymorgan](https://www.linkedin.com/in/donnymorgan)  
+<i class="fa fa-github"></i> [github.com/thedjsmiles](https://github.com/thedjsmiles/)</center>
 
 ### Summary  
 Analytics director with an undergraduate engineering degree and 6 years of experience working at the intersection of product, marketing, and analytics to improve operations, customer experience, and company growth.
+
+Data Analyst working at the cross section of marketing
 
 ### Skills
 <center>SQL <i class="fa fa-asterisk"></i> Python <i class="fa fa-asterisk"></i> ETL <i class="fa fa-asterisk"></i> HTML <i class="fa fa-asterisk"></i> CSS <i class="fa fa-asterisk"></i> Data Mining <i class="fa fa-asterisk"></i> Basic JavaScript  <i class="fa fa-asterisk"></i> CRO <i class="fa fa-asterisk"></i> A/B Testing </center>
