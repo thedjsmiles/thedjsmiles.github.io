@@ -8,7 +8,7 @@
 Data Analyst with interest in data engineering, and experience working with market research, logistics and sales figures to improve operations, as well as company growth.
 
 ### Skills
-<center>Fluent in SQL <i class="fa fa-asterisk"></i> Python <i class="fa fa-asterisk"></i> ETL <i class="fa fa-asterisk"></i> Ruby <i class="fa fa-asterisk"></i> Data Mining <i class="fa fa-asterisk"></i> HTML <i class="fa fa-asterisk"></i> CSS <i class="fa fa-asterisk"></i> CRO </center>
+<center>Fluent in SQL <i class="fa fa-asterisk"></i> Python <i class="fa fa-asterisk"></i> ETL <i class="fa fa-asterisk"></i> Ruby <i class="fa fa-asterisk"></i> Data Mining <i class="fa fa-asterisk"></i> HTML <i class="fa fa-asterisk"></i> CSS <i class="fa fa-asterisk"></i> Basic Javascript </center>
 
 
 ### Experience
