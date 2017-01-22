@@ -40,6 +40,7 @@ Infinite Grind, Blacksburg, VA, October 2011 - November 2015
 ### Education
 **Bachelor of Science, Computer Science**  
 Oregon State University, Corvallis, OR (Sept 2015 - Present)
+
 **Bachelor of Science, Biochemistry**  
 Virginia Tech, Blacksburg, VA (2012)
 
